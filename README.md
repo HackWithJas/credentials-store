@@ -14,7 +14,6 @@ A secure password management system built with Python that encrypts and stores s
 - [Error Handling](#-error-handling)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
@@ -316,11 +315,6 @@ pip install -r requirements.txt
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 📞 Support
 
@@ -339,3 +333,4 @@ If you encounter any issues or have questions:
 - Multi-factor authentication
 - Secure key storage solutions
 - Regular security audits
+
